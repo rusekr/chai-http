@@ -54,7 +54,7 @@
   },
   "devDependencies": {
     "simplifyify": "^2.0.1",
-    "chai": "*",
+    "chai": "3.5.0",
     "coveralls": "^2.11.9",
     "dox": "^0.8.1",
     "es6-shim": "^0.35.1",
