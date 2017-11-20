@@ -51,7 +51,7 @@
     "is-ip": "^2.0.0",
     "methods": "^1.1.2",
     "qs": "^6.5.1",
-    "superagent": "^3.7.0"
+    "superagent": "git+https://github.com/rusekr/superagent.git#6732b242431bc115276698abe6ab66bd1cea3e7a"
   },
   "devDependencies": {
     "chai": "4",
